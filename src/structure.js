@@ -1,4 +1,4 @@
-import {Slice, Fragment} from "prosemirror-model"
+import {Slice, Fragment} from "@jimpick/prosemirror-model"
 
 import {Transform} from "./transform"
 import {ReplaceStep, ReplaceAroundStep} from "./replace_step"

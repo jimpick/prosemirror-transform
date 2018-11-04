@@ -1,4 +1,4 @@
-import {ReplaceError} from "prosemirror-model"
+import {ReplaceError} from "@jimpick/prosemirror-model"
 
 import {StepMap} from "./map"
 

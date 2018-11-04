@@ -1,4 +1,4 @@
-import {Slice} from "prosemirror-model"
+import {Slice} from "@jimpick/prosemirror-model"
 
 import {Step, StepResult} from "./step"
 import {StepMap} from "./map"

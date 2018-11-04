@@ -1,4 +1,4 @@
-import {Fragment, Slice} from "prosemirror-model"
+import {Fragment, Slice} from "@jimpick/prosemirror-model"
 import {Step, StepResult} from "./step"
 
 function mapFragment(fragment, f, parent) {

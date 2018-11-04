@@ -1,4 +1,4 @@
-import {MarkType, Slice, Fragment} from "prosemirror-model"
+import {MarkType, Slice, Fragment} from "@jimpick/prosemirror-model"
 
 import {Transform} from "./transform"
 import {AddMarkStep, RemoveMarkStep} from "./mark_step"
